@@ -6,7 +6,10 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next build",
+    "cloudflare": "next build",
+    "serve": "npx serve@latest out"
   },
   "dependencies": {
     "@react-three/drei": "^10.0.7",

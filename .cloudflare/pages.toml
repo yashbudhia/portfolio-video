@@ -1,0 +1,8 @@
+# Configuration for Cloudflare Pages
+
+[build]
+  command = "npm run cloudflare"
+  publish = "out"
+  
+[build.environment]
+  NODE_VERSION = "20"
