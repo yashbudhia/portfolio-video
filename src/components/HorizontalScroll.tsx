@@ -32,6 +32,18 @@ const projects: Project[] = [
     videoUrl: "/swipsesense-final.mp4", // Local video file
     year: 2025,
     featured: true,
+  },
+  {
+    id: 2,
+    title: "FutureVision SaaS Launch",
+    category: "SaaS Launch",
+    client: "FutureVision",
+    description: "High-energy SaaS launch sequence highlighting product capabilities and user outcomes.",
+    image: "https://img.youtube.com/vi/kWjWRMRPVsw/maxresdefault.jpg",
+    videoThumbnail: "https://img.youtube.com/vi/kWjWRMRPVsw/hqdefault.jpg",
+    videoUrl: "https://youtu.be/kWjWRMRPVsw",
+    year: 2024,
+    featured: true,
   }
 ];
 
