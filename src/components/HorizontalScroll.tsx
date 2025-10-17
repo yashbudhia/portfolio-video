@@ -35,14 +35,14 @@ const projects: Project[] = [
   },
   {
     id: 2,
-    title: "FutureVision SaaS Launch",
+    title: "Cheetah AI SaaS Launch",
     category: "SaaS Launch",
-    client: "FutureVision",
+    client: "Cheetahai",
     description: "High-energy SaaS launch sequence highlighting product capabilities and user outcomes.",
     image: "https://img.youtube.com/vi/kWjWRMRPVsw/maxresdefault.jpg",
     videoThumbnail: "https://img.youtube.com/vi/kWjWRMRPVsw/hqdefault.jpg",
     videoUrl: "https://youtu.be/kWjWRMRPVsw",
-    year: 2024,
+    year: 2025,
     featured: true,
   }
 ];
